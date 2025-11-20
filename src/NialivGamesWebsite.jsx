@@ -449,7 +449,7 @@ export default function NialivGamesWebsite({ accentColor = "#00C8FF", secondaryC
                       <polyline points="22,6 12,13 2,6"></polyline>
                     </svg>
                   </div>
-                  <a href="mailto:hello@nialivgames.com" className="text-gray-300 hover:text-[var(--accent)]">hello@nialivgames.com</a>
+                  <a href="mailto:nialiv.games@gmail.com" className="text-gray-300 hover:text-[var(--accent)]">nialiv.games@gmail.com</a>
                 </div>
               </div>
               
